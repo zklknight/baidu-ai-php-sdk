@@ -1,0 +1,20 @@
+{
+    "name": "zkl/baidu-ai-php",
+    "description": "baidu pulic ai php sdk",
+    "version":"1.0",
+    "authors": [
+        {
+            "name": "zkl"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "baidu\\ai\\": "src/"
+        }
+    }
+}
