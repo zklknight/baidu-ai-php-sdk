@@ -1,5 +1,5 @@
 # baidu-ai-php-sdk
-baidu-ai-php-sdk
+百度AI php SDK composer包
 
 百度AI sdk 文档地址https://ai.baidu.com/ai-doc/FACE/zk37c1qrv
 使用教程和百度的文档一样,把原本的引入方式(require_once 'AipFace.php') 改成composer的命名空间(use baidu\ai\AipFace)引入
