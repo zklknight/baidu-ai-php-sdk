@@ -1,4 +1,4 @@
-# baidu-ai-php-sdk
+# 百度AI开放平台 PHP SDK composer安装
 百度AI开放平台 PHP SDK composer安装
 
 百度AI sdk 文档地址https://ai.baidu.com/ai-doc/FACE/zk37c1qrv
